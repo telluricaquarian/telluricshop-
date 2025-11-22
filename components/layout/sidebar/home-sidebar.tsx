@@ -9,11 +9,11 @@ export function HomeSidebar({ collections }: HomeSidebarProps) {
   return (
     <aside className="max-md:hidden col-span-4 h-screen sticky top-0 p-sides pt-top-spacing flex flex-col justify-between">
       <div>
-        <p className="italic tracking-tighter text-base">Refined. Minimal. Never boring.</p>
+        <p className="italic tracking-tighter text-base">Electrolytically Reduced Hydrogen-Rich Deuterium Depleted Water</p>
         <div className="mt-5 text-base leading-tight">
-          <p>Furniture that speaks softly, but stands out loud.</p>
-          <p>Clean lines, crafted with wit.</p>
-          <p>Elegance with a wink — style first</p>
+          <p>Water Technology that is revolutionizing</p>
+          <p>Expand Your Horizons</p>
+          <p>Feel & Experience the difference.</p>
         </div>
       </div>
       <ShopLinks collections={collections} />
